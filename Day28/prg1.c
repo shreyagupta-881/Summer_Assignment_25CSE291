@@ -16,7 +16,7 @@ int main(){
    scanf("%s",&b[i].name);}
    printf("Library Record\n");
    for(i=0;i<n;i++){
-   printf("%d%s\n",b[i].id,b[i].name);
+   printf("%d%s\n",b[i].id,b[i].name);}
    return 0;
-}
+
 }

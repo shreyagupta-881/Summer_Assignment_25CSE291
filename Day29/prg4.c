@@ -23,7 +23,7 @@ int main(){
    
    for(i=0;i<n;i++){
 
-   printf("%d%s%d\n",it[i].id,it[i].name,it[i].quantity);
+   printf("%d%s%d\n",it[i].id,it[i].name,it[i].quantity);}
    return 0;
-}
+
 }

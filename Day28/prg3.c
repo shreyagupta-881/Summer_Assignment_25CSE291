@@ -20,7 +20,7 @@ int main(){
    
    for(i=0;i<n;i++){
 
-   printf("%s-%lld\n",c[i].name,c[i].phone);
+   printf("%s-%lld\n",c[i].name,c[i].phone);}
    return 0;
-}
+
 }
